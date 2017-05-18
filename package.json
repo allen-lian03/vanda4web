@@ -1,0 +1,14 @@
+{
+  "name": "vanda4web",
+  "version": "1.0.0",
+  "description": "web version for vanda",
+  "main": "index.js",
+  "scripts": {
+    "go": "go build -i .\\webapi\\vanda4web\\"
+  },
+  "keywords": [
+    "vue.js&golang"
+  ],
+  "author": "allen lian",
+  "license": "ISC"
+}

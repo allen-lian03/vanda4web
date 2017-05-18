@@ -1,0 +1,5 @@
+*.exe
+
+vendor/
+node_module/
+dist/

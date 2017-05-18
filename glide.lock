@@ -1,0 +1,20 @@
+hash: 0ad291dd2202249b3653eb251d904c820ff6220cd894c2297434ee1f9aed38c4
+updated: 2017-05-17T20:33:49.1196616+08:00
+imports:
+- name: github.com/lib/pq
+  version: 2704adc878c21e1329f46f6e56a1c387d788ff94
+  subpackages:
+  - oid
+- name: upper.io/db.v3
+  version: deacccd45909c462bb89752f27a2686a47be9372
+  subpackages:
+  - internal/cache
+  - internal/cache/hashstructure
+  - internal/immutable
+  - internal/sqladapter
+  - internal/sqladapter/compat
+  - internal/sqladapter/exql
+  - lib/reflectx
+  - lib/sqlbuilder
+  - postgresql
+testImports: []
