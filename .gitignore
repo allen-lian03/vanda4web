@@ -1,5 +1,5 @@
 *.exe
 
 vendor/
-node_module/
+node_modules/
 dist/
