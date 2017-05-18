@@ -5,6 +5,11 @@
 </template>
 
 <script>
+export default {
+    this.$resource.get().then(r => {
+        
+    })
+}
 </script>
 
 <style>

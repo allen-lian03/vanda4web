@@ -1,0 +1,11 @@
+{
+    "//": "This is used by db-migrate tool.",
+    "dev": {
+        "host": "localhost",
+        "schema": "example",
+        "database": "learning",        
+        "user": "postgres",
+        "password": "123",
+        "driver": "pg"
+    }
+}
