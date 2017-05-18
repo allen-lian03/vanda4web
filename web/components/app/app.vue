@@ -6,9 +6,7 @@
 
 <script>
 export default {
-    this.$resource.get().then(r => {
-        
-    })
+    
 }
 </script>
 
